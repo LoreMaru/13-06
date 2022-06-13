@@ -1,4 +1,4 @@
-let msg = "ciao";
+let msg = "ciao ";
 let corso = "Edgemony";
 
-console.log(msg, corso);
+console.log(msg + corso);
