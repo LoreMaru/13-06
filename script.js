@@ -1,4 +1,3 @@
-let msg = "ciao ";
-let corso = "Edgemony";
+let msg = "Purtroppo non c'è niente qui :(";
 
-console.log(msg + corso);
+console.log(msg);
